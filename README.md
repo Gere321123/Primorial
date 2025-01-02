@@ -22,4 +22,8 @@ This method provides a highly efficient way to narrow down candidates for primal
 
 ---
 
+![image](https://github.com/user-attachments/assets/16ed316e-921e-444c-bbdd-cfdeddadad4d)
+
+
+---
 © My Method :D  
