@@ -9,8 +9,8 @@ This formula is unique—you won’t find it anywhere else!
 ## About the Formula  
 
 This formula is used to determine if a number between  
-[ $P_n$# - $P_{n-1}^2$ ,
- $P_n$# + $P_{n-1}^2$ ]  
+[ $P_n$# - $P_{n+1}^2$ ,
+ $P_n$# + $P_{n+1}^2$ ]  
 
 is **not a prime number**.  
 
